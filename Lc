@@ -102,7 +102,7 @@ http://192.168.1.209:20279/tvheadend/stream/channelid/88283127?ticket=4CD552C41D
 http://192.168.1.209:20279/tvheadend/stream/channelid/1811530102?ticket=EBD161D51E37B9E12A005896566EC4424247854E&profile=pass
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
 http://192.168.1.209:20279/tvheadend/stream/channelid/1430880286?ticket=36FA3D45AE9739A34F350DD05F52FD106BF50744&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png" tvg-id="cnbc",CNBC
+#EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC
 http://192.168.1.209:20279/tvheadend/stream/channelid/1261388477?ticket=9F1B5BC52DC7E20E9C7328C5BBA70A9935138D99&profile=pass
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
 http://192.168.1.209:20279/tvheadend/stream/channelid/1428727910?ticket=EC17A278BEEAC47345E5259B0B6E1E6E052E02C3&profile=pass
