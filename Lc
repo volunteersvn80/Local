@@ -14,6 +14,8 @@ http://192.168.1.18:20228/udp/225.1.2.190:30120
 http://192.168.1.18:20228/udp/225.1.1.131:30120
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 http://192.168.1.18:20228/udp/225.1.2.236:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
+http://192.168.1.18:20228/udp/225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 http://192.168.1.18:20228/udp/225.1.1.108:30120
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
