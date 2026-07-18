@@ -26,6 +26,8 @@ http://192.168.1.18:20228/udp/225.1.2.96:30120
 http://192.168.1.18:20228/udp/225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 http://192.168.1.18:20228/udp/225.1.1.128:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8Mbps)
+http://192.168.1.18:20228/udp/225.1.2.245:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://192.168.1.18:20228/udp/225.1.2.169:30120
